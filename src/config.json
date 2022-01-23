@@ -6,6 +6,6 @@
   },
   "quizDuration": 300000,
   "api": {
-    "baseURL": "https://gk-app-rghd9.ondigitalocean.app/api"
+    "baseURL": "do-test-atk57.ondigitalocean.app/api"
   }
 }
